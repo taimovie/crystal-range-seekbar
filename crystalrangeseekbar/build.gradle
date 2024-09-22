@@ -15,7 +15,7 @@ ext {
 
     libraryDescription = 'An extended version of android range seekbar.'
 
-    gitUrl = 'https://github.com/syedowaisali/crystal-range-seekbar.git'
+    gitUrl = 'https://github.com/taimovie/crystal-range-seekbar.git'
 
     libraryVersion = '1.1.4'
 
